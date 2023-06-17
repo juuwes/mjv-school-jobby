@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 ✅ **Elaboração do Escopo inicial.**
 
-✅ **Manipulação de arquivos:** Gerar um arquivo `.cvs` utilizando os pacotes `java.nio.file` e `java.nio.file.attribute`, esses pacotes oferecem um suporte completo à manipulação de arquivos e diretórios, centralizados na classe **Files** e na interface **Path**, complementando a API `Java IO`.
+✅ **Manipulação de arquivos:** Gerar um arquivo `.csv` utilizando os pacotes `java.nio.file` e `java.nio.file.attribute`, esses pacotes oferecem um suporte completo à manipulação de arquivos e diretórios, centralizados na classe **Files** e na interface **Path**, complementando a API `Java IO`.
 
 ![image](https://github.com/juuwes/mjv-school-jobby/assets/93749428/62321785-db06-46dd-a8a5-835070731475)
 _________________________________________________________________________________________________________________________________________
