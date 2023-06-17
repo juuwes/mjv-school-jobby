@@ -8,6 +8,8 @@ ________________________________________________________________________________
 
 <b>Proposta:</b> Uma plataforma destinada ao armazenamento de dados pessoais e profissionais para em seguida proporcionar uma listagem de profissionais, suas experiências e habilidades destinadas para auxilar no processo de recrutamento e seleção de uma empresa de tecnologia.
 
+⚠️ **Pasta -** _files_ : Contém o arquivo `cadastro.csv`
+
 #### Até o momento o projeto abordou os seguintes temas:
 
 ✅ **Elaboração do Escopo inicial.**
