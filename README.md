@@ -24,6 +24,6 @@ ________________________________________________________________________________
 3. Prontinho! Siga as instruções e execute o projeto! 😃
 
 ### Contato e Contribuições  👩‍💻
-Qualquer dúvida, dicas ou feedbacks entre em contato comigo, pelo seguintes canais:
+Qualquer dúvida, dicas ou feedbacks entre em contato comigo:
 
 email: `contatosilvajuliana@gmail.com`
